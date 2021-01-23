@@ -1,4 +1,3 @@
 # EE599_Discussion
 
-
-add
+learn how to use Github
